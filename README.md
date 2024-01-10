@@ -1,3 +1,15 @@
+####################################################################################
+
+O objetivo desse projeto foi alterar o gerenciamento de estado do projeto que está sendo o "useState" para um gerenciamento com Redux.
+
+####################################################################################
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
